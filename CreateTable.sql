@@ -1,0 +1,5 @@
+CREATE TBALE Test
+(
+	Name VARCHAR(20),
+	Address VARCHAR(20)
+)
