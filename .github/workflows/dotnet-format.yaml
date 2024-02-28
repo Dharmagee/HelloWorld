@@ -4,7 +4,7 @@ name: dotnet format
 on:
   push:
     paths:
-      - "**.cs"
+      - "*.cs"
       - ".editorconfig"
 
 jobs:
